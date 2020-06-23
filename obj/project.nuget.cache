@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrxXXld8Nl7wQOBfmyuuu19qJnoa3PhuG5VQ3O1xrxr19UBUQGlGeCfQ+xdHo0HSsb6pRpQLIVCbe6CFHBxLHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\google.protobuf\\3.12.3\\google.protobuf.3.12.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\grpc.net.client\\2.29.0\\grpc.net.client.2.29.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\grpc.net.common\\2.29.0\\grpc.net.common.2.29.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\grpc.tools\\2.29.0\\grpc.tools.2.29.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
